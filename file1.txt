@@ -1,3 +1,6 @@
 HI This is Git training lab
 
 <<"Santhosh, Need to update every day like this">>
+
+
+hi i got it
