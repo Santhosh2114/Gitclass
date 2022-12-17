@@ -5,4 +5,6 @@ HI This is Git training lab
 
 hi i got it
 
-hiasdka,bvm,xgklanv.zxcbgmzxn. vm.g
+hi did you leared anything today
+can you update in git repo 
+
