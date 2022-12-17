@@ -3,5 +3,11 @@ apiVersion: v1
 kind: Namespace
 metadata:
   name: twitter
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: Facebook  
+  
 
-adding new NS?
+Your code is correct please use the same 
